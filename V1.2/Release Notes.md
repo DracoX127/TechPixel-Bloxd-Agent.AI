@@ -1,7 +1,7 @@
 # Release Notes (v1.2)
 
 ## New Features and Updates
-**Date:** June 15, 2026
+**Date:** June 11, 2026
 
 Welcome to version 1.2 of TechPixel Agent! This update introduces powerful creative tools, an advanced memory management system, and several quality-of-life interface improvements.
 
