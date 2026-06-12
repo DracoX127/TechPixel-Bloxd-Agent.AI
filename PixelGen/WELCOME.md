@@ -3,6 +3,8 @@
 
 PixelGen is specifically engineered for the **Bloxd.io** and **BloxdHub** communities. It bridges the gap between creative intent and game-ready assets by translating high-level concepts into voxel-perfect visual data.
 
+<img width="1424" height="684" alt="Screenshot 2026-06-11 at 8 08 10 PM" src="https://github.com/user-attachments/assets/796197e4-080d-426b-b035-1967338e371b" />
+
 ***
 
 ## 🚀 Core Philosophy
