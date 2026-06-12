@@ -3,8 +3,6 @@
 
 **PixelGen** is a specialized prompt orchestration and image synthesis layer built to bridge the gap between creative game-design intent and production-ready voxel assets. It eliminates generic AI generation outputs by forcing strict adherence to game-specific geometry, styles, and asset types.
 
-<img width="1424" height="684" alt="Screenshot 2026-06-11 at 8 08 10 PM" src="https://github.com/user-attachments/assets/796197e4-080d-426b-b035-1967338e371b" />
-
 
 ***
 
